@@ -1,0 +1,12 @@
+# Archivos generados por Dart/Flutter
+.dart_tool/
+.packages
+build/
+
+# Dependencias específicas
+pubspec.lock
+
+# Archivos del sistema
+*.log
+.DS_Store
+Thumbs.db
